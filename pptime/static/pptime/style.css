@@ -1,0 +1,24 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 15px;
+}
+
+th {
+  text-align: left;
+}
+
+label {
+  padding:0 20px 0 0;
+}
+
+.helptext {
+  color:grey;
+}
+
+.addmargin {
+  margin:30px 35px;
+}

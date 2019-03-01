@@ -1,0 +1,5 @@
+django == 2.1.7
+requests
+requests_oauthlib
+parse
+XlsxWriter
